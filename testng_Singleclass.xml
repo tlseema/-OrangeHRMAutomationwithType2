@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Suhas/OrangeHRMAutomationwithType2/src/test/java/com/hrm/TestCases"><classes><class name="com.hrm.TestCases.TC_LoginPageTest"><methods><include name="VerifyloginisSuccessful"/></methods></class><class name="com.hrm.TestCases.TC_VerifyCreateNewEmployee"><methods><include name="verifycreatenewemployee"/></methods></class></classes></test></suite>
